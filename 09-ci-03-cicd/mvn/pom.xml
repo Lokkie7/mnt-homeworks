@@ -7,9 +7,9 @@
   <version>1.0-SNAPSHOT</version>
    <repositories>
     <repository>
-      <id>nexus</id>
+      <id>my-repo</id>
       <name>maven-public</name>
-      <url>http://51.250.36.147:8081/repository/maven-public/</url>
+      <url>http://localhost:8081/repository/maven-public/</url>
     </repository>
   </repositories>
   <dependencies>
