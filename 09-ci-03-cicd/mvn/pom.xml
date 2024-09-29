@@ -10,8 +10,6 @@
       <id>nexus</id>
       <name>maven-public</name>
       <url>http://51.250.36.147:8081/repository/maven-public/</url>
-      <username>admin</username>
-      <password>admin123</passwors>
     </repository>
   </repositories>
   <dependencies>
